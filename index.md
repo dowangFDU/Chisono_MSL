@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## 欢迎来到赤松主页
+## Welcome to Chisono Pages
 
-You can use the [editor on GitHub](https://github.com/dowangFDU/Chisono_MSL/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 赤松(Chisono)小组
+赤松小组正式成立于2021年9月12日.
+目前有4位成员, 分别是虞晓宙, 符士洪, 王东方和王淳正(排名不分先后)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dowangFDU/Chisono_MSL/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+组建的初衷来自王东方想以游戏的载体来讲述中苏之间一些故事, 
+并以此为切入点, 试图从自身走过的历史进程中寻找似乎被当今这个自由主义泛滥的时代人们所忽略的一个问题,
+即“我是谁”这个古老而又现代哲学问题的答案.
